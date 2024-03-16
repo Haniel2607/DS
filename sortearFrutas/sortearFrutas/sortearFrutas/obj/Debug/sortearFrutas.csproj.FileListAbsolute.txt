@@ -1,0 +1,11 @@
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\bin\Debug\sortearFrutas.exe.config
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\bin\Debug\sortearFrutas.exe
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\bin\Debug\sortearFrutas.pdb
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\obj\Debug\sortearFrutas.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\obj\Debug\sortearFrutas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\obj\Debug\sortearFrutas.Form1.resources
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\obj\Debug\sortearFrutas.Properties.Resources.resources
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\obj\Debug\sortearFrutas.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\obj\Debug\sortearFrutas.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\obj\Debug\sortearFrutas.exe
+C:\Users\Alunos\Desktop\sortearFrutas\sortearFrutas\obj\Debug\sortearFrutas.pdb
